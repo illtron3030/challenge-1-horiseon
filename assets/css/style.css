@@ -86,16 +86,21 @@ p {
     background-color: #2589bd;
 }
 
+/* Grouped these elements together since they all have the same styling */
+
 .benefit-brand, .benefit-cost, .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Grouped these elements together since they all have the same styling */
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/* Grouped these elements together since they all have the same styling */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -105,6 +110,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Grouped these elements together since they all have the same styling */
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
