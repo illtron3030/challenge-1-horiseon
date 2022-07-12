@@ -18,7 +18,7 @@ Usage is to learn about a company through their website.
 
 ## Credits
 
-Ilya Feldman
+Person or people who wrote the original source code.
 
 ## License
 Open
